@@ -1,3 +1,5 @@
-basic.forever(function on_forever() {
-    
-})
+namespace DidacticoBot{
+    export function Go_Forward(vitesse:number):void {
+        
+    }
+}
